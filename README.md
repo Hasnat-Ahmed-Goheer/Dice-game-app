@@ -1,14 +1,14 @@
 # Dice Roller Game 🎲
 
-![GitHub repo size](https://img.shields.io/github/repo-size/Hasnat-Ahmed-Goheer/Dice-Game-App)
-![GitHub last commit](https://img.shields.io/github/last-commit/Hasnat-Ahmed-Goheer/Auth-form?color=blue)
-![GitHub stars](https://img.shields.io/github/stars/Hasnat-Ahmed-Goheer/Dice-Game-App)
-![GitHub forks](https://img.shields.io/github/forks/Hasnat-Ahmed-Goheer/Dice-Game-App)
-![GitHub issues](https://img.shields.io/github/issues/Hasnat-Ahmed-Goheer/Dice-Game-App)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/Hasnat-Ahmed-Goheer/Dice-Game-App)
+![GitHub repo size](https://img.shields.io/github/repo-size/Hasnat-Ahmed-Goheer/Dice-game-App)
+![GitHub last commit](https://img.shields.io/github/last-commit/Hasnat-Ahmed-Goheer/Dice-game-app?color=blue)
+![GitHub stars](https://img.shields.io/github/stars/Hasnat-Ahmed-Goheer/Dice-game-App)
+![GitHub forks](https://img.shields.io/github/forks/Hasnat-Ahmed-Goheer/Dice-game-App)
+![GitHub issues](https://img.shields.io/github/issues/Hasnat-Ahmed-Goheer/Dice-game-App)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/Hasnat-Ahmed-Goheer/Dice-game-App)
 
 
-![Last Updated](https://img.shields.io/github/last-commit/Hasnat-Ahmed-Goheer/Auth-form?label=Last%20Updated&color=yellow)
+![Last Updated](https://img.shields.io/github/last-commit/Hasnat-Ahmed-Goheer/Dice-game-app?label=Last%20Updated&color=yellow)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 
