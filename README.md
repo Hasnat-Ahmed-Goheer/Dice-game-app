@@ -1,5 +1,15 @@
 # Dice Roller Game 🎲
 
+![GitHub repo size](https://img.shields.io/github/repo-size/Hasnat-Ahmed-Goheer/Dice-Game-App)
+![GitHub last commit](https://img.shields.io/github/last-commit/Hasnat-Ahmed-Goheer/Auth-form?color=blue)
+![Last Updated](https://img.shields.io/github/last-commit/Hasnat-Ahmed-Goheer/Auth-form?label=Last%20Updated&color=yellow)
+![GitHub issues](https://img.shields.io/github/issues/Hasnat-Ahmed-Goheer/Dice-Game-App)
+![GitHub stars](https://img.shields.io/github/stars/Hasnat-Ahmed-Goheer/Dice-Game-App)
+
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
+
+
 ## Overview
 
 Welcome to the Dice Roller Game, a thrilling two-player game of strategy and luck! In this JavaScript-based game, your objective is to be the first player to reach a total score of 100 or more points.
